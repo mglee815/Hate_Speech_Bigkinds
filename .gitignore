@@ -130,3 +130,6 @@ dmypy.json
 data/
 .csv
 .xlsx
+result/hate_peak.csv
+
+/result
